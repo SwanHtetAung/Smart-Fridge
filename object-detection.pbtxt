@@ -1,0 +1,84 @@
+item {
+    id: 1
+    name: 'hand'
+}
+item {
+    id: 2
+    name: 'mayonnaise' 
+}
+item {
+    id: 3
+    name: 'canned_beans' 
+}
+item {
+    id: 4
+    name: 'eggs' 
+}
+item {
+    id: 5
+    name: 'soft_drink' 
+}
+item {
+    id: 6
+    name: 'green_vegetables'
+}
+item {
+    id: 7
+    name: 'apples' 
+}
+item {
+    id: 8
+    name: 'ketchup' 
+}
+item {
+    id: 9
+    name: 'canned_tuna' 
+}
+item {
+    id: 10
+    name: 'cooked_food' 
+}
+item {
+    id: 11
+    name: 'bread' 
+}
+item {
+    id: 12
+    name: 'butter' 
+}
+item {
+    id: 13
+    name: 'tomatoes' 
+}
+item {
+    id: 14
+    name: 'canned_soup' 
+}
+item {
+    id: 15
+    name: 'water' 
+}
+item {
+    id: 16
+    name: 'cheese' 
+}
+item {
+    id: 17
+    name: 'juice' 
+}
+item {
+    id: 18
+    name: 'carrot' 
+}
+item {
+    id: 19
+    name: 'orange'
+}
+item {
+    id: 20
+    name: 'milk' 
+}
+item {
+    id: 21
+    name: 'berries' 
+}
